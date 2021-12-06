@@ -2,3 +2,4 @@ https://www.kaggle.com/antgoldbloom/covid19-data-from-john-hopkins-university?se
 https://data.cdc.gov/Policy-Surveillance/U-S-State-and-Territorial-Public-Mask-Mandates-Fro/62d6-pm5i
 https://github.com/nytimes/covid-19-data/tree/master/mask-use
 https://data.milwaukee.gov/dataset/trafficaccident
+https://transportal.cee.wisc.edu/products/hourly-traffic-data/bysiteid/milwaukee.html
