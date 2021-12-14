@@ -8,6 +8,7 @@ MIT License. See the `LICENSE` file.
 
 ## Contents of this Repository
  * The `data` folder contains the datasets used in this project. See **Data Provenance** below.
+	 * Due to filesize constraints, the datasets are not included. See `/data/data_sources.txt` for the source URLs of the datasets.
  * The `notebooks` folder contains the Jupyter notebooks used to perform the data cleaning and analysis for this project.
 	 * `a4-common-analysis.ipynb` contains the work done for the Common Analysis (A4).
 	 * `a5-extension-analysis.ipynb` contains the work done for the Extension Analysis (A5).
