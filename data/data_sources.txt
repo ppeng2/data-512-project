@@ -1,5 +1,9 @@
-https://www.kaggle.com/antgoldbloom/covid19-data-from-john-hopkins-university?select=RAW_us_confirmed_cases.csv
-https://data.cdc.gov/Policy-Surveillance/U-S-State-and-Territorial-Public-Mask-Mandates-Fro/62d6-pm5i
-https://github.com/nytimes/covid-19-data/tree/master/mask-use
-https://data.milwaukee.gov/dataset/trafficaccident
-https://transportal.cee.wisc.edu/products/hourly-traffic-data/bysiteid/milwaukee.html
+Datasets are not included in this repository due to their filesize. URLs for obtaining each are listed here.
+Files in the /CT-400003/ subdirectory cover the date range from 2020-01 to 2021-09. Not all months are available.
+
+[FILENAME(S)] - [SOURCE URL]
+RAW_us_confirmed_cases.csv - https://www.kaggle.com/antgoldbloom/covid19-data-from-john-hopkins-university?select=RAW_us_confirmed_cases.csv
+U.S._State_and_Territorial_Public_Mask_Mandates_From_April_10__2020_through_August_15__2021_by_County_by_Day.csv - https://data.cdc.gov/Policy-Surveillance/U-S-State-and-Territorial-Public-Mask-Mandates-Fro/62d6-pm5i
+mask-use-by-county.csv - https://github.com/nytimes/covid-19-data/tree/master/mask-use
+trafficaccident.csv - https://data.milwaukee.gov/dataset/trafficaccident
+/CT-400003/CT-400003-YYYY-MM-DD.xlsx - https://transportal.cee.wisc.edu/products/hourly-traffic-data/bysiteid/milwaukee.html
